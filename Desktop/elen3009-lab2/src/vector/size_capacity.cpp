@@ -24,4 +24,6 @@ int main()
 
 ///size has to do with number of elements in the vector.
 ///capacity of a vector refers to the memory space allocated to a vector depending on the size of the vector.This leaves room of growth(in terms of number of elements of the vector.)
-///memory can be reallocated if no extra memory is needed or allocated if extra memory is needed. Max_size gives the maximum number of elements that can stored in the currently allocated memory space.
+///memory can be reallocated if no extra memory is needed or allocated if extra memory is needed. 
+///the function capacity() measures the size of allocated memory in terms of number of elements.
+///Max_size gives the maximum number of elements that can stored in the currently allocated memory space.
